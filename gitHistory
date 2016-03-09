@@ -1,0 +1,20 @@
+    1  git
+    2  mkdir gitTest
+    3  cd gitTEst
+    4  ls
+    5  cd
+    6  ls
+    7  cd GitTest
+    8  git init
+    9  nano hello.c
+   10  ls
+   11  git status
+   12  git add .
+   13  git status
+   14  git commit
+   15  git config --global user.name "tvgkbharadwaj"
+   16  git config --global user.email tvgkbharadwaj@gmail.com
+   17  git status
+   18  git commit
+   19  ls
+   20  history > gitHistory
